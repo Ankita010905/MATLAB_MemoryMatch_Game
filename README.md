@@ -2,6 +2,7 @@
 Memory Match game developed using MATLAB.
 # MATLAB GUI-Based Memory Match Game
 Memory Match Game (MATLAB GUI)
+
 🖥 Overview
 
 A classic memory match game where the player matches pairs of cards. Developed using MATLAB GUI.
