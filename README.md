@@ -9,32 +9,28 @@ A classic memory match game where the player matches pairs of cards. Developed u
 
 🛠 Features
 
-Interactive card selection
+- Interactive card selection
 
-Randomized card positions each game
+- Randomized card positions each game
 
-Tracks matched pairs
+- Tracks matched pairs
 
-Score counter
+- Score counter
 
 🧩 Implementation Details
 
-Developed using MATLAB GUIDE
+- Developed using MATLAB GUIDE
 
-Uses axes to display card images
+- Uses axes to display card images
 
-Tracks game state using global variables
+- Tracks game state using global variables
 
 📈 Future Improvements
 
-Timer-based gameplay for added challenge
+- Timer-based gameplay for added challenge
 
-Levels with increasing difficulty
+- Levels with increasing difficulty
 
-Sound effects and animations
-## 🔹 Tools & Technologies Used
+- Sound effects and animations
 
-- MATLAB  
-- MATLAB App Designer (GUI development)  
-- MATLAB Functions for game logic  
 
