@@ -1,23 +1,36 @@
 # MATLAB_MemoryMatch_Game
 Memory Match game developed using MATLAB.
 # MATLAB GUI-Based Memory Match Game
+Memory Match Game (MATLAB GUI)
+🖥 Overview
 
+A classic memory match game where the player matches pairs of cards. Developed using MATLAB GUI.
 
-This project is a **Memory Match Game** developed using **MATLAB App Designer** during my **MATLAB Internship**.  
-It is an interactive GUI game designed to test memory and concentration skills by matching pairs of cards.
+🛠 Features
 
----
+Interactive card selection
 
-## 🔹 Key Features
+Randomized card positions each game
 
-- Interactive **GUI interface** with clickable cards
-- **Randomized card layout** on every game start
-- Keeps track of **score and attempts**
-- Provides **feedback for matched and unmatched cards**
-- Can be expanded with additional card sets or difficulty levels
+Tracks matched pairs
 
----
+Score counter
 
+🧩 Implementation Details
+
+Developed using MATLAB GUIDE
+
+Uses axes to display card images
+
+Tracks game state using global variables
+
+📈 Future Improvements
+
+Timer-based gameplay for added challenge
+
+Levels with increasing difficulty
+
+Sound effects and animations
 ## 🔹 Tools & Technologies Used
 
 - MATLAB  
